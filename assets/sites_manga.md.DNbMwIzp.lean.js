@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./chunks/framework.CX4WITqu.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sites/manga.md","filePath":"sites/manga.md"}'),s={name:"sites/manga.md"};function n(r,o,c,i,m,p){return t(),a("div")}const f=e(s,[["render",n]]);export{d as __pageData,f as default};

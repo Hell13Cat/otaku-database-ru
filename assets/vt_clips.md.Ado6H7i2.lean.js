@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.CX4WITqu.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vt/clips.md","filePath":"vt/clips.md"}'),s={name:"vt/clips.md"};function c(r,o,n,p,i,l){return a(),e("div")}const m=t(s,[["render",c]]);export{d as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.CX4WITqu.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"sites/other.md","filePath":"sites/other.md"}'),s={name:"sites/other.md"};function o(a,c,n,i,p,_){return r(),t("div")}const f=e(s,[["render",o]]);export{m as __pageData,f as default};

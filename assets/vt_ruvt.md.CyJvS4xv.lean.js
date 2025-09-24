@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as r}from"./chunks/framework.CX4WITqu.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vt/ruvt.md","filePath":"vt/ruvt.md"}'),a={name:"vt/ruvt.md"};function o(s,c,n,p,_,d){return r(),e("div")}const v=t(a,[["render",o]]);export{m as __pageData,v as default};
